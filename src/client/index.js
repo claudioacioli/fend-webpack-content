@@ -5,3 +5,4 @@ console.log(checkForName);
 console.log(handleSubmit);
 
 alert("Good");
+alert("Good2");
